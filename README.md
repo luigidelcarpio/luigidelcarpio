@@ -1,6 +1,16 @@
-### Hi there 👋
+<p align="center"> <img src="./assest/hello.gif" alt="hello" /> </p>
+
+<p align="center"> <img src="./assest/hello2.gif" alt="hello" /> </p>
+
+## About me
+
+- 💻 I’m currently working as a technology consultant.
+- 🌱 I’m currently learning various new technologies.
+- 🤝 Looking to collaborate on new projects.
+- 💬 Ask me about anything, I am happy to help.
 
 <!--
+### Hi there 👋
 **luigidelcarpio/luigidelcarpio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
