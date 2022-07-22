@@ -1,6 +1,5 @@
-<p align="center"> <img src="./assest/hello.gif" alt="hello" /> </p>
-
-<p align="center"> <img src="./assest/hello2.gif" alt="hello" /> </p>
+<p align="center"> <img src="./assest/hello.gif" width="10%" alt="hello" /> </p>
+<p align="center"> <img src="./assest/hello2.gif" width="50%" alt="hello2" /> </p>
 
 ## About me
 
