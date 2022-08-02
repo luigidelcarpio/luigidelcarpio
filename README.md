@@ -1,25 +1,11 @@
-<p align="center"> <img src="./assest/hello.gif" width="10%" alt="hello" /> </p>
-<p align="center"> <img src="./assest/hello2.gif" width="50%" alt="hello2" /> </p>
+<p align="center"> 
+<img src="./assest/hello.gif" width="20%" alt="hello"/>
+<br>
+<img src="./assest/hello2.gif" width="50%" alt="hello2"/> </p>
 
 ## About me
 
-- 💻 I’m currently working as a technology consultant.
-- 🌱 I’m currently learning various new technologies.
-- 🤝 Looking to collaborate on new projects.
-- 💬 Ask me about anything, I am happy to help.
-
-<!--
-### Hi there 👋
-**luigidelcarpio/luigidelcarpio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻  I’m currently work as a technology consultant.
+- 🌱  I’m learning various new technologies.
+- 🤝  I’m looking to collaborate on new projects.
+- 💬  Ask me about anything, I am happy to help.
